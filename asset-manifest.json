@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Navbar_responsive/static/css/main.d7429a05.css",
+    "main.js": "/Navbar_responsive/static/js/main.a1cee60e.js",
+    "index.html": "/Navbar_responsive/index.html",
+    "main.d7429a05.css.map": "/Navbar_responsive/static/css/main.d7429a05.css.map",
+    "main.a1cee60e.js.map": "/Navbar_responsive/static/js/main.a1cee60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7429a05.css",
+    "static/js/main.a1cee60e.js"
+  ]
+}
